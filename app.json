@@ -19,8 +19,8 @@
        "Lazy Princess",
        "LazyPrincess"
     ],
-    "website": "https://github.com/LazyDeveloperr/LazyPrincess",
-    "repository": "https://github.com/LazyDeveloperr/LazyPrincess",
+    "website": "https://github.com/Ariyanekyodha/AjMovieSearch",
+    "repository": "https://github.com/Ariyanekyodha/AjMovieSearch",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
